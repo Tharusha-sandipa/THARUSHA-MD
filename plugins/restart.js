@@ -4,7 +4,7 @@ const {sleep} = require('../lib/functions')
 
 cmd({
     pattern: "restart",
-    desc: "restart the bot",
+    desc: "restart whatsapp bot",
     category: "owner",
     filename: __filename
 },
