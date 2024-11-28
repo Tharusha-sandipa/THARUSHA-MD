@@ -71,7 +71,7 @@ console.log('THARUSHA-MD Whatsapp Bot connected to whatsapp ✅')
 
 let up = `> THARUSHA-MD whatsapp bot connected successful ✅\n\nPREFIX: ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `වට්සැප් බොට් connecting ලෝගො එක මෙතනට දාන්න ඕනා` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/tZ1YYLs/33ec0611ef73c3c7.jpg` }, caption: up })
 
 }
 })
