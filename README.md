@@ -5,3 +5,7 @@ Welcome to tharusha md whatsapp bot😗❤️‍🩹
 
 https://tharuwebpair-6b43340f2c5a.herokuapp.com/
 
+# pair code
+
+https://tharuwebpair-6b43340f2c5a.herokuapp.com/
+
